@@ -1,7 +1,8 @@
 https://gateway.ethswarm.org/access/9ee0c947685eda380603c432b7291cd622f580867e33c7a059b349b3fd9ee4de
 # Opinion-Essay-On-A-WAM-Topic
 My opinion Essay On A WAM Topic
-My Opinion Essay On A WAM Topic
+
+
 During the WAM program. From March 1 to March 21, a lot of interesting
 topics were touched upon. Efforts and care have been invested in the creation of
 the program. The events clearly show fresh perspectives on contemporary topics.

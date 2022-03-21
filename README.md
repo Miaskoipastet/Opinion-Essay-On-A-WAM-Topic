@@ -20,7 +20,9 @@ sure that these topics are the future!!! What is interesting is that all the top
 chosen carelessly, are interconnected and complement each other. I am grateful to
 the organizers that they gathered them in a place and are engaged in educational
 activities.
+
 Empowering digital freedom and restoring privacy.
+
 First, I would like to note whether it is possible to talk about “digital
 surveillance” of the government with financial, ideological and technological
 support from non-democratic partner states or the possibility of controlling
@@ -32,7 +34,9 @@ constantly trying to regulate this area from the point of view of public
 administration. And we must find a balance and a solution to this. This is
 especially important to ensure a sustainable information and cyber security
 ecosystem as a whole.
+
 Web3 and NFT in the music industry
+
 Speaking about Web3, I would like to note the main problems:
 • It is inconvenient for people to run their servers
 • Protocols have always evolved slower than platforms
@@ -56,7 +60,9 @@ not acquire the rights to audio or composition, but pay for the virtual right to
 and the opportunity to support the performers. And it could fundamentally change
 the streaming service, as well as video blogging and filmmaking. Separately, you
 can talk about the release of tracks in the metasettlement))))
+
 Art, blockchain and NFT
+
 All these are the engines of progress, and they radically change our time!
 Digital art that uses blockchain technology. Blockchain helps digital artists solve
 the problem of free replication by releasing a limited number of items and tying
@@ -71,17 +77,22 @@ artists in the NFT market create art. And there are many speculators. However,
 everything that happens before our eyes will have a positive impact on art. I think
 in the future there will be authors with a deeper content of the work. The market
 will only grow.
+
 DAO
+
 I met DAO a couple of weeks before the program. This is a completely new
 and incredibly flexible way to organize everything around. Here you can highlight
 certain issues for discussion for specific groups of people and get a decision faster.
 I am very interested in code management and collective management after a
 while. I wonder what methods and methods will appear, and how they will affect
 the world around us.
+
 What could be better
+
 More activities, different creative tasks for ordinary listeners. Create specific
 guides. So that listeners can try the material they listened to in practice. Listeners
 would get their own experience in the topic that interested them. And it is possible
 to move further in the chosen direction. And the most talented can be attracted for
 cooperation.
+
 PS. Do another hackathon like this.
